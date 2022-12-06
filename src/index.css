@@ -267,11 +267,12 @@ ul {
 }
 
 .navbar {
-  width: 90vw;
+  width: 100%;
   max-width: var(--max-width);
   margin: 0 auto;
   display: flex;
   gap: 1rem;
+  float: right;
 }
 
 .link {
